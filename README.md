@@ -1,2 +1,1 @@
-# preetam-portfolio-main
-portfolio code files
+# sooraj-portfolio
